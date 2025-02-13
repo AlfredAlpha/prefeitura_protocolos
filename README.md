@@ -1,9 +1,3 @@
-# prefeitura_protocolos
-
-Aqui está um exemplo de `README.md` bem detalhado e profissional para o seu projeto de **Sistema de Protocolos da Prefeitura**. Ele cobre desde a descrição do projeto até instruções de instalação, uso e contribuição.
-
----
-
 # Sistema de Protocolos da Prefeitura
 
 O **Sistema de Protocolos da Prefeitura** é uma solução desenvolvida para gerenciar, automatizar e otimizar o processo de protocolamento de documentos em uma prefeitura. O sistema permite que munícipes protocolizem documentos, que são automaticamente direcionados para as secretarias responsáveis, com prazos e regras claras para respostas. Além disso, oferece ferramentas de administração para gestão de secretarias, funcionários e relatórios de produtividade.
